@@ -1,0 +1,15 @@
+--Task: Write a query that gives an overview of how many films 
+--have replacements costs in the following cost ranges
+--low: 9.99 - 19.99
+--medium: 20.00 - 24.99
+--high: 25.00 - 29.99
+
+SELECT
+CASE
+WHEN replacement_cost BETWEEN 9.99 AND 19.99 THEN 'low'
+WHEN replacement_cost BETWEEN 20.00 AND 24.99 THEN 'medium'
+ELSE 'high'
+END AS cost_range, 
+COUNT(*)
+FROM film 
+GROUP BY cost_range;
