@@ -1,3 +1,7 @@
+--Task: Create a list of the film titles including their title, length, 
+--and category name ordered descendingly by length. 
+--Filter the results to only the movies in the category 'Drama' or 'Sports'.
+
 SELECT title, length, name AS category_name
 FROM film f
 LEFT JOIN film_category fc
