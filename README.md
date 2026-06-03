@@ -26,3 +26,14 @@ high: 25.00 - 29.99
 
 Question: How many films have a replacement cost in the "low" group?
 Answer: 514
+
+
+## Question 3:
+
+Level: Moderate
+Topic: JOIN
+
+Task: Create a list of the film titles including their title, length, and category name ordered descendingly by length. Filter the results to only the movies in the category 'Drama' or 'Sports'.
+
+Question: In which category is the longest film and how long is it?
+Answer: Sports and 184

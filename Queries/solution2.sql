@@ -4,6 +4,7 @@
 --medium: 20.00 - 24.99
 --high: 25.00 - 29.99
 
+
 SELECT
 CASE
 WHEN replacement_cost BETWEEN 9.99 AND 19.99 THEN 'low'
