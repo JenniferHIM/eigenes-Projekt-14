@@ -37,3 +37,14 @@ Task: Create a list of the film titles including their title, length, and catego
 
 Question: In which category is the longest film and how long is it?
 Answer: Sports and 184
+
+
+## Question 4:
+
+Level: Moderate
+Topic: JOIN & GROUP BY
+
+Task: Create an overview of how many movies (titles) there are in each category (name).
+
+Question: Which category (name) is the most common among the films?
+Answer: Sports with 74 titles
