@@ -48,3 +48,14 @@ Task: Create an overview of how many movies (titles) there are in each category 
 
 Question: Which category (name) is the most common among the films?
 Answer: Sports with 74 titles
+
+
+## Question 5:
+
+Level: Moderate
+Topic: JOIN & GROUP BY
+
+Task: Create an overview of the actors' first and last names and in how many movies they appear in.
+
+Question: Which actor is part of most movies??
+Answer: Susan Davis with 54 movies
