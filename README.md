@@ -59,3 +59,14 @@ Task: Create an overview of the actors' first and last names and in how many mov
 
 Question: Which actor is part of most movies??
 Answer: Susan Davis with 54 movies
+
+
+## Question 6:
+
+Level: Moderate
+Topic: LEFT JOIN & FILTERING
+
+Task: Create an overview of the addresses that are not associated to any customer.
+
+Question: How many addresses are that?
+Answer: 4
