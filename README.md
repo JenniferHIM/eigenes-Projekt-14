@@ -70,3 +70,14 @@ Task: Create an overview of the addresses that are not associated to any custome
 
 Question: How many addresses are that?
 Answer: 4
+
+
+## Question 7:
+
+Level: Moderate
+Topic: JOIN & GROUP BY
+
+Task: Create the overview of the sales  to determine the from which city (we are interested in the city in which the customer lives, not where the store is) most sales occur.
+
+Question: What city is that and how much is the amount?
+Answer: Cape Coral with a total amount of 221.55
