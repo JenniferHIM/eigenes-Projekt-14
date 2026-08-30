@@ -92,3 +92,14 @@ Task: Create an overview of the revenue (sum of amount) grouped by a column in t
 
 Question: Which country, city has the least sales?
 Answer: United States, Tallahassee with a total amount of 50.85.
+
+
+## Question 9:
+
+Level: Difficult
+Topic: Uncorrelated subquery
+
+Task: Create a list with the average of the sales amount each staff_id has per customer.
+
+Question: Which staff_id makes on average more revenue per customer?
+Answer: staff_id 2 with an average revenue of 56.64 per customer.
