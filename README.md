@@ -81,3 +81,14 @@ Task: Create the overview of the sales  to determine the from which city (we are
 
 Question: What city is that and how much is the amount?
 Answer: Cape Coral with a total amount of 221.55
+
+
+## Question 8:
+
+Level: Moderate to difficult
+Topic: JOIN & GROUP BY
+
+Task: Create an overview of the revenue (sum of amount) grouped by a column in the format "country, city".
+
+Question: Which country, city has the least sales?
+Answer: United States, Tallahassee with a total amount of 50.85.
