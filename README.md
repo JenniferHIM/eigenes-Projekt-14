@@ -89,8 +89,8 @@ Level: Moderate to difficult
 Topic: JOIN & GROUP BY
 
 Task: Create an overview of the revenue (sum of amount) grouped by a column in the format "country, city".
-
 Question: Which country, city has the least sales?
+
 Answer: United States, Tallahassee with a total amount of 50.85.
 
 
@@ -103,3 +103,14 @@ Task: Create a list with the average of the sales amount each staff_id has per c
 
 Question: Which staff_id makes on average more revenue per customer?
 Answer: staff_id 2 with an average revenue of 56.64 per customer.
+
+
+## Question 10:
+
+Level: Difficult to very difficult
+Topic: EXTRACT + Uncorrelated subquery
+
+Task: Create a query that shows average daily revenue of all Sundays.
+
+Question: What is the daily average revenue of all Sundays?
+Answer: 1410.65
