@@ -114,3 +114,40 @@ Task: Create a query that shows average daily revenue of all Sundays.
 
 Question: What is the daily average revenue of all Sundays?
 Answer: 1410.65
+
+
+## Question 11:
+
+Level: Difficult to very difficult
+Topic: Correlated subquery
+
+Task: Create a list of movies - with their length and their replacement cost - that are longer than the average length in each replacement cost group.
+
+Question: Which two movies are the shortest on that list and how long are they?
+Answer: CELEBRITY HORN and SEATTLE EXPECTATIONS with 110 minutes.
+
+
+## Question 12:
+
+Level: Very difficult
+Topic: Uncorrelated subquery
+
+Task: Create a list that shows the "average customer lifetime value" grouped by the different districts.
+
+Example:
+If there are two customers in "District 1" where one customer has a total (lifetime) spent of $1000 and the second customer has a total spent of $2000 then the "average customer lifetime spent" in this district is $1500.
+So, first, you need to calculate the total per customer and then the average of these totals per district.
+
+Question: Which district has the highest average customer lifetime value?
+Answer: Saint-Denis with an average customer lifetime value of 216.54.
+
+
+## Question 13:
+
+Level: Very difficult
+Topic: Correlated query
+
+Task: Create a list that shows all payments including the payment_id, amount, and the film category (name) plus the total amount that was made in this category. Order the results ascendingly by the category (name) and as second order criterion by the payment_id ascendingly.
+
+Question: What is the total revenue of the category 'Action' and what is the lowest payment_id in that category 'Action'?
+Answer: Total revenue in the category 'Action' is 4375.85 and the lowest payment_id in that category is 16055.
