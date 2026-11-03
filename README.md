@@ -151,3 +151,14 @@ Task: Create a list that shows all payments including the payment_id, amount, an
 
 Question: What is the total revenue of the category 'Action' and what is the lowest payment_id in that category 'Action'?
 Answer: Total revenue in the category 'Action' is 4375.85 and the lowest payment_id in that category is 16055.
+
+
+## Bonus question 14:
+
+Level: Extremely difficult
+Topic: Correlated and uncorrelated subqueries (nested)
+
+Task: Create a list with the top overall revenue of a film title (sum of amount per title) for each category (name).
+Question: Which is the top-performing film in the animation category?
+
+Answer: DOGMA FAMILY with 178.70.
